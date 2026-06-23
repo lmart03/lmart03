@@ -1,19 +1,20 @@
+![Header](https://capsule-render.vercel.app/api?type=waving\&height=260\&color=0:0D1117,45:023E8A,100:00B4D8\&text=Luis%20Enrique%20Mart%C3%ADnez\&fontColor=FFFFFF\&fontSize=42\&fontAlignY=36\&desc=Data%20Analyst%20en%20formaci%C3%B3n%20%7C%20Software%20Developer\&descAlignY=57\&descSize=19\&animation=fadeIn)
+
 <div align="center">
 
-# ¡Hola! Soy Luis Enrique Martínez Quijandría 👋
-
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Analista+de+Datos+en+formaci%C3%B3n;Desarrollador+Frontend+y+Mobile;SQL+%7C+Power+BI+%7C+DAX;Angular+%7C+Flutter+%7C+Bases+de+datos" alt="Presentación animada">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1200&color=00B4D8&center=true&vCenter=true&width=720&lines=Transformando+datos+en+informaci%C3%B3n+%C3%BAtil;SQL+%7C+Excel+%7C+Power+BI+%7C+DAX;Angular+%7C+Flutter+%7C+APIs+REST;Aprendiendo%2C+analizando+y+construyendo"
+    alt="Presentación animada"
+  />
 </a>
-
-**Estudiante de Ingeniería de Sistemas e Informática | Analista de Datos en formación | Desarrollador de Software**
 
 <p>
   <a href="https://www.linkedin.com/in/luis-enrique-mart%C3%ADnez-quijandr%C3%ADa-a5a4a723b/">
     <img src="https://img.shields.io/badge/LinkedIn-Luis_Martínez-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="mailto:lmartinezquijandria@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-Contáctame-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+    <img src="https://img.shields.io/badge/Gmail-Contacto-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
   </a>
   <img src="https://img.shields.io/badge/Ubicación-Ica%2C_Perú-2EA44F?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Ica, Perú">
 </p>
@@ -24,140 +25,112 @@
 
 ## 👨‍💻 Sobre mí
 
-Soy estudiante de **noveno ciclo de Ingeniería de Sistemas e Informática** en la Universidad Tecnológica del Perú. Cuento con experiencia en el desarrollo de aplicaciones web y móviles, y actualmente estoy orientando mi crecimiento profesional hacia el **análisis de datos y la inteligencia de negocios**.
+Soy estudiante de **noveno ciclo de Ingeniería de Sistemas e Informática** en la Universidad Tecnológica del Perú.
 
-Me interesa utilizar la tecnología para organizar, analizar y transformar datos en información útil que contribuya a la toma de decisiones.
+Cuento con experiencia en desarrollo web y móvil, y actualmente estoy orientando mi crecimiento profesional hacia el **análisis de datos y la inteligencia de negocios**. Me interesa convertir datos en información clara mediante consultas, reportes, indicadores y visualizaciones que apoyen la toma de decisiones.
 
-* 📊 Conocimientos en **SQL, Excel, Power BI y DAX**.
+* 📊 En formación para desempeñarme como **Data Analyst**.
+* 🧩 Conocimientos en **SQL, Excel, Power BI y DAX**.
 * 🗄️ Manejo de **PostgreSQL, MySQL y SQL Server**.
-* 🌐 Experiencia en desarrollo web con **Angular, TypeScript, NgRx Store y Tailwind CSS**.
-* 📱 Desarrollo de aplicaciones móviles con **Flutter y Dart**.
-* 🏗️ Conocimientos de organización **feature-based, arquitectura hexagonal y Clean Architecture**.
+* 🌐 Desarrollo frontend con **Angular, TypeScript, NgRx Store y Tailwind CSS**.
+* 📱 Desarrollo móvil con **Flutter, Dart y Clean Architecture**.
 * ⚙️ Formación académica en **.NET, C#, Java y Spring Boot**.
-* 🌱 Actualmente construyo proyectos para fortalecer mi portafolio como analista de datos.
-* 📍 Resido en Ica, Perú.
+* 📍 Ica, Perú.
 
 ---
 
-## 🎯 Enfoque profesional
+## 🎯 Perfil profesional
 
-Actualmente estoy fortaleciendo mis habilidades para desempeñarme en áreas relacionadas con:
-
-* Análisis y visualización de datos.
-* Inteligencia de negocios.
-* Creación de dashboards e indicadores.
-* Consultas y gestión de bases de datos.
-* Limpieza, transformación y validación de información.
-* Desarrollo de soluciones de software orientadas a procesos empresariales.
-
-Mi objetivo es combinar mi experiencia en desarrollo de software con el análisis de datos para crear soluciones que permitan comprender mejor la información y optimizar la toma de decisiones.
+|          📊 Análisis de datos          |          💻 Desarrollo de software          |
+| :------------------------------------: | :-----------------------------------------: |
+|      Consultas y análisis con SQL      |         Aplicaciones web con Angular        |
+|         Dashboards con Power BI        |       Aplicaciones móviles con Flutter      |
+|       Modelado y medidas con DAX       |      Consumo e integración de API REST      |
+|  Limpieza y validación de información  | Arquitectura hexagonal y Clean Architecture |
+| Indicadores para la toma de decisiones |    Control de versiones con Git y GitHub    |
 
 ---
 
-## 🛠️ Tecnologías y herramientas
+## 🛠️ Stack tecnológico
 
-<h3 align="center">📊 Análisis de datos</h3>
+<div align="center">
 
-<p align="center">
-  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL">
-  <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Microsoft Excel">
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI">
-  <img src="https://img.shields.io/badge/DAX-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="DAX">
-</p>
+### 📊 Datos y Business Intelligence
 
-<h3 align="center">🗄️ Bases de datos</h3>
+<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL">
+<img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Microsoft Excel">
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI">
+<img src="https://img.shields.io/badge/DAX-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="DAX">
 
-<p align="center">
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
-  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server">
-</p>
+### 🗄️ Bases de datos
 
-<h3 align="center">🌐 Desarrollo frontend</h3>
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
+<img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server">
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular">
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
-  <img src="https://img.shields.io/badge/NgRx-BA2BD2?style=for-the-badge&logo=reactivex&logoColor=white" alt="NgRx">
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS">
-</p>
+### 💻 Desarrollo
 
-<h3 align="center">📱 Desarrollo móvil</h3>
+<img src="https://skillicons.dev/icons?i=angular,ts,tailwind,flutter,dart,dotnet,cs,java,spring,git,github,vscode&perline=6&theme=dark" alt="Tecnologías de desarrollo">
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter">
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart">
-  <img src="https://img.shields.io/badge/Clean_Architecture-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Clean Architecture">
-</p>
+### 🔧 Herramientas y arquitectura
 
-<h3 align="center">⚙️ Backend</h3>
+<img src="https://img.shields.io/badge/NgRx-BA2BD2?style=for-the-badge&logo=reactivex&logoColor=white" alt="NgRx">
+<img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" alt="Swagger">
+<img src="https://img.shields.io/badge/DBeaver-382923?style=for-the-badge&logo=dbeaver&logoColor=white" alt="DBeaver">
+<img src="https://img.shields.io/badge/API_REST-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="API REST">
 
-<p align="center">
-  <img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="C Sharp">
-  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot">
-</p>
+<br>
 
-<h3 align="center">🔧 Herramientas</h3>
+<img src="https://img.shields.io/badge/Arquitectura_Hexagonal-023E8A?style=flat-square" alt="Arquitectura hexagonal">
+<img src="https://img.shields.io/badge/Feature--Based-0077B6?style=flat-square" alt="Feature Based">
+<img src="https://img.shields.io/badge/Clean_Architecture-00B4D8?style=flat-square" alt="Clean Architecture">
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-  <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" alt="Swagger">
-  <img src="https://img.shields.io/badge/DBeaver-382923?style=for-the-badge&logo=dbeaver&logoColor=white" alt="DBeaver">
-</p>
+</div>
 
 ---
 
 ## 🚀 Actualmente
 
-* Fortaleciendo mis conocimientos en **SQL y modelado de bases de datos**.
-* Desarrollando dashboards interactivos con **Power BI**.
-* Practicando la creación de medidas e indicadores con **DAX**.
-* Trabajando en proyectos de análisis, limpieza y visualización de datos.
-* Preparando proyectos para mi portafolio profesional de Data Analytics.
-* Mejorando continuamente mis habilidades de desarrollo de software.
+* Profundizando en consultas, relaciones y optimización con **SQL**.
+* Creando dashboards e indicadores mediante **Power BI**.
+* Practicando medidas y cálculos mediante **DAX**.
+* Fortaleciendo mis conocimientos de limpieza y transformación de datos.
+* Construyendo proyectos para mi portafolio como analista de datos.
+* Mejorando mis conocimientos de desarrollo de software y bases de datos.
 
 ---
 
-## 📚 Formación complementaria
+## 📚 Formación
 
-* 📘 Curso de SQL — **Platzi**, 2024.
-* 🌎 Inglés básico — **Nivel A2**.
-* 🎓 Ingeniería de Sistemas e Informática — Universidad Tecnológica del Perú.
+* 🎓 **Ingeniería de Sistemas e Informática** — Universidad Tecnológica del Perú.
+* 📘 **Curso de SQL** — Platzi, 2024.
+* 🌎 **Inglés básico** — Nivel A2.
 
 ---
 
-## 📈 Actividad en GitHub
+## 📊 Actividad en GitHub
 
 <div align="center">
 
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://github-readme-stats.vercel.app/api?username=lmart03&show_icons=true&locale=es&hide_border=true&theme=github_dark">
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://github-readme-stats.vercel.app/api?username=lmart03&show_icons=true&locale=es&hide_border=true&theme=default">
-  <img
-    height="170"
-    src="https://github-readme-stats.vercel.app/api?username=lmart03&show_icons=true&locale=es&hide_border=true"
-    alt="Estadísticas de GitHub">
-</picture>
+<img
+height="175"
+src="https://github-readme-stats.vercel.app/api?username=lmart03&show_icons=true&locale=es&hide_border=true&bg_color=0D1117&title_color=00B4D8&icon_color=48CAE4&text_color=FFFFFF"
+alt="Estadísticas de GitHub"
+/>
 
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=lmart03&layout=compact&locale=es&hide_border=true&theme=github_dark">
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=lmart03&layout=compact&locale=es&hide_border=true&theme=default">
-  <img
-    height="170"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=lmart03&layout=compact&locale=es&hide_border=true"
-    alt="Lenguajes más utilizados">
-</picture>
+<img
+height="175"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=lmart03&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=00B4D8&text_color=FFFFFF"
+alt="Lenguajes más utilizados"
+/>
+
+<br><br>
+
+<img
+width="95%"
+src="https://github-readme-activity-graph.vercel.app/graph?username=lmart03&bg_color=0D1117&color=FFFFFF&line=00B4D8&point=90E0EF&area=true&hide_border=true&custom_title=Actividad%20de%20los%20últimos%2031%20días"
+alt="Gráfico de actividad"
+/>
 
 </div>
 
@@ -167,17 +140,22 @@ Mi objetivo es combinar mi experiencia en desarrollo de software con el análisi
 
 <div align="center">
 
-¿Tienes una oportunidad, proyecto o deseas conversar sobre tecnología y análisis de datos?
+Estoy interesado en oportunidades de aprendizaje, prácticas preprofesionales y proyectos relacionados con **análisis de datos, Business Intelligence y desarrollo de software**.
 
-<p>
-  <a href="https://www.linkedin.com/in/luis-enrique-mart%C3%ADnez-quijandr%C3%ADa-a5a4a723b/">
-    <img src="https://img.shields.io/badge/LinkedIn-Luis_Enrique_Martínez-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="mailto:lmartinezquijandria@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-lmartinezquijandria%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
-  </a>
-</p>
+<br>
 
-> “Los datos por sí solos no cuentan una historia; el análisis los convierte en conocimiento.”
+<a href="https://www.linkedin.com/in/luis-enrique-mart%C3%ADnez-quijandr%C3%ADa-a5a4a723b/">
+  <img src="https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
+
+<a href="mailto:lmartinezquijandria@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-Enviar_mensaje-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+</a>
+
+<br><br>
+
+> **“Los datos adquieren valor cuando se transforman en decisiones.”**
 
 </div>
+
+![Footer](https://capsule-render.vercel.app/api?type=waving\&height=120\&color=0:0D1117,45:023E8A,100:00B4D8\&section=footer)
