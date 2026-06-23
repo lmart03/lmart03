@@ -12,7 +12,7 @@ Me interesa transformar datos en información útil mediante **SQL, Excel, Power
 
 - 🎓 Estudiante de Ingeniería de Sistemas e Informática en la UTP.
 - 📊 En formación para desempeñarme como Data Analyst.
-- 💼 Experiencia como desarrollador Frontend y Mobile en Nexasoft Solutions.
+- 💼 Experiencia como desarrollador Frontend y Mobile.
 - 🌐 Desarrollo web con Angular, NgRx Store y Tailwind CSS.
 - 📱 Desarrollo móvil con Flutter y Clean Architecture.
 - 🗄️ Manejo de PostgreSQL, MySQL y SQL Server.
