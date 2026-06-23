@@ -1,4 +1,3 @@
-```markdown
 # ¡Hola! Soy Luis Enrique Martínez Quijandría 👋
 
 ### Estudiante de Ingeniería de Sistemas e Informática | Data Analyst en formación | Desarrollador de Software
@@ -59,22 +58,6 @@ Me interesa transformar datos en información útil mediante **SQL, Excel, Power
 
 ---
 
-## 🏗️ Experiencia y proyectos
-
-### Sistema de Gestión Administrativa para el Club Centro Social de Ica
-
-Sistema desarrollado para centralizar y optimizar diferentes procesos administrativos de la institución.
-
-Principales funcionalidades:
-
-- Gestión de socios y familiares.
-- Gestión de membresías y pagos.
-- Reservas de espacios.
-- Administración de contratos.
-- Generación de reportes.
-- Aplicación web y aplicación móvil.
-- Integración con servicios API REST.
-
 Tecnologías utilizadas:
 
 `Angular` · `NgRx Store` · `Tailwind CSS` · `Flutter` · `PostgreSQL` · `MySQL` · `Git`
@@ -96,13 +79,6 @@ Actualmente estoy trabajando en proyectos para fortalecer mi portafolio como ana
 
 ---
 
-## 📚 Formación adicional
-
-- Curso de SQL — Platzi, 2024.
-- Inglés básico — Nivel A2.
-
----
-
 ## 📈 Estadísticas de GitHub
 
 ![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=lmart03&show_icons=true&locale=es&hide_border=true)
@@ -120,4 +96,3 @@ Actualmente estoy trabajando en proyectos para fortalecer mi portafolio como ana
 ---
 
 > “Los datos por sí solos no cuentan una historia; el análisis los convierte en conocimiento.”
-```
